@@ -30,6 +30,7 @@ body, html {
   #ttext-container {
     width: 30%;
     margin: auto;
+    height: 100%;
   }
 
   #ttext {
