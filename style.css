@@ -80,6 +80,7 @@ body, html {
 		background-repeat: no-repeat;
 		background-size: 100%;
 		background-height: 100%;
+		background-position: center;
 	}
 
 	#ts-bar {
