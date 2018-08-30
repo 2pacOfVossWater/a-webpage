@@ -2,13 +2,13 @@ body, html {
     margin: 0;
     padding: 0;
   }
-  
+
   #fs {
     position: absolute;
     width: 100%;
     height: 100%;
   }
-  
+
   #bkg-img {
     position: absolute;
     width: 100%;
@@ -16,8 +16,9 @@ body, html {
     background-image: url('skater pingu.jpg');
     background-position: center;
     background-attachment: fixed;
+    background-size: 100%;
   }
-  
+
   #title-container {
     position: absolute;
     top: 25%;
@@ -25,18 +26,18 @@ body, html {
     height: 32.5%;
     background-color: #111;
   }
-  
+
   #ttext-container {
     width: 30%;
     margin: auto;
   }
-  
+
   #ttext {
     font: 2.5em "Lato", sans-serif;
     text-align: center;
     color: #fff;
   }
-    
+
     #ss {
       position: absolute;
       top: 100%;
@@ -44,7 +45,7 @@ body, html {
       height: 50%;
       background-color: #111;
     }
-    
+
     #desc-container {
       width: 60%;
       margin: auto;
@@ -55,20 +56,20 @@ body, html {
       color: #fff;
       text-align: center;
     }
-    
+
     #desc-text {
       font: 1.5em "Lato", sans-serif;
       color: #fff;
       text-align: justify;
     }
-	
+
 	#ts {
 		position: absolute;
 		width: 100%;
 		height: 100%;
 		top: 150%;
 	}
-	
+
 	#tsbkg {
 		background-image: url('comrade-pingu.jfif');
 		background-position: center;
@@ -76,8 +77,9 @@ body, html {
 		height: 100%;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
+		background-size: 100%;
 	}
-	
+
 	#ts-bar {
 		position: absolute;
 		background-color: #111;
@@ -86,7 +88,7 @@ body, html {
 		top: 65%;
 
 	}
-	
+
 	#join-now {
 		font: 2em "Lato", sans-serif;
 		color: #fff;
